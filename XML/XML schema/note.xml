@@ -1,0 +1,10 @@
+<?xml version="1.0"? encoding="UTF-8"?>
+
+<note
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="note.xsd">
+  <to>Christian</to>
+  <from>Jacob</from>
+  <heading>Reminder</heading>
+  <body>Vejle Boldklub's næste fodbold kamp spilles her lørdag</body>
+</note> 

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="movies.xsl"?>
+
+<collection>
+  <movie>
+    <title>Spirited Away</title>
+    <genre>Animation</genre>
+    <year>2001</year>
+  </movie>
+  <movie>
+    <title>Joker</title>
+    <genre>Thriller</genre>
+    <year>2019</year>
+  </movie>
+  <movie>
+    <title>Blade Runner 2049</title>
+    <genre>Mystery</genre>
+    <year>2017</year>
+  </movie>
+  <movie>
+    <title>Darkest Hour</title>
+    <genre>Biography</genre>
+    <year>2019</year>
+  </movie>
+  <movie>
+    <title>Grave of the fireflies</title>
+    <genre>Animation</genre>
+    <year>1988</year>
+  </movie>
+</collection> 

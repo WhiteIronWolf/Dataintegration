@@ -13,6 +13,7 @@ app.get('/', function(req, res) {
         console.log(response.statusCode);
         response.on('data', function (data) {
         const weather = JSON.parse(data);
+        console.log(weather)
         res.render('index', {
             city: weather.location.name,
             celsius: weather.current.temperature
